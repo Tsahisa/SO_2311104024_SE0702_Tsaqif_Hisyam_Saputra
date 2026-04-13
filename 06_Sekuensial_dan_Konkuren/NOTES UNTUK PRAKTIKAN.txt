@@ -1,0 +1,9 @@
+Langkah persiapan pengerjaan Jurnal No 2-5:
+1. Buka direktori xinu/system
+2. Backup file bernama main.c, taruh pada folder Home (JANGAN BACKUP/PASTE PADA FOLDER YANG SAMA)
+3. Setelah backup, buka kembali file main.c yang terdapat pada direktori xinu/system
+4. Silahkan masukkan kode pada masing-masing soal pada nomor 2-5
+5. Jika sudah jangan lupa save, lalu compile dan jalankan Xinu seperti pada modul-modul sebelumnya
+6. Screenshot kode dan output akhir pada Xinu
+
+
