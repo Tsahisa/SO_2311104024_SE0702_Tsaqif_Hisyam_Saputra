@@ -1,0 +1,9 @@
+HINT!!!
+
+NO 1:
+- Hapus baris yang mengandung newprio, lalu ganti dengan looping. Selama i < namelen, salin karakter dari newname[i] ke prptr->prname[i].
+
+NO 2 & 3:
+- Ikuti instruksi Modul 10 halaman 37 nomor 5. Isi file xsh_namecmd disesuaikan dengan soal, termasuk nama commandnya.
+- Sertakan include: xinu.h, stdio.h, string.h.
+- Buat fungsi dengan format: shellcmd xsh_namecmd(int nargs, char *args[]) { isi sesuai soal }.
