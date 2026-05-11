@@ -1,0 +1,9 @@
+CLUE!!!
+
+SOAL NO 1:
+Silahkan lakukan langkah-langkah pembuatan command seperti pada modul sebelumnya
+a. Gunakan fungsi printFreeList dari file xsh_memstat
+b. Buat sebuah variable untuk menampung TotalFreeSpace, tambahkan di dalam loop, lalu printkan di akhir
+
+SOAL NO 2: 
+Silahkan buka Modul 11 Praktikum Sistem Operasi
